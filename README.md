@@ -1,18 +1,71 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=180&section=header&text=MOKAQ&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Abidjan%2C%20C%C3%B4te%20d'Ivoire&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=MODDAGE+DE+CONSOLE;IA+LOCALE+%26+RAG+%7C+OLLAMA;ESP32+%26+SYSTEMES+EMBARQUES;WEBXR" alt="Typing SVG" /> </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pixel divider"/> </p>
-🧠 Ce que je fais
-🕹️ Moddage de console — l'un de mes points forts
-🤖 IA locale — déploiement Ollama / LM Studio, pipelines RAG, fine-tuning LoRA
-🌐 Web & apps — React/Node.js, interfaces glassmorphism, streaming MJPEG, WebXR
-🔧 Hardware — projets ESP32 (PlatformIO), reverse engineering (Ghidra/IDA), ASM ARM
-🛠️ Stack technique
-<p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a> <a href="https://www.cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="42" height="42"/></a> <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="42" height="42"/></a> <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="42" height="42"/></a> <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42"/></a> <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/></a> <a href="https://www.blender.org" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42"/></a> <a href="https://www.espressif.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="esp32" width="42" height="42"/></a> <a href="https://getnobara.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a> </p>
-📊 Stats GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bigjojony&show_icons=true&theme=tokyonight&hide_border=true" alt="MOKAQ's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bigjojony&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigjojony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> </p>
-🐍 Activité (cadre dynamique)
-<p align="center"> <img src="https://raw.githubusercontent.com/Bigjojony/Bigjojony/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=180&section=header&animation=fadeIn" alt="header" width="100%"/>
+</p>
 
-Ce serpent s'anime automatiquement à partir de ton graphe de contributions — voir la note ci-dessous pour l'activer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=MODDAGE+DE+CONSOLE;IA+LOCALE+%26+RAG+%7C+OLLAMA;ESP32+%26+SYSTEMES+EMBARQUES;WEBXR" alt="Typing SVG" />
+</p>
 
-📫 Me contacter
-<p align="left"> <!-- Remplace les liens ci-dessous par tes vrais profils --> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=100&section=footer" alt="footer" width="100%"/> </p>
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pixel divider"/>
+</p>
+
+### 🧠 Ce que je fais
+
+- 🕹️ **Moddage de console** — l'un de mes points forts
+- 🤖 **IA locale** — déploiement Ollama / LM Studio, pipelines RAG, fine-tuning LoRA
+- 🌐 **Web & apps** — React/Node.js, interfaces glassmorphism, streaming MJPEG, WebXR
+- 🔧 **Hardware** — projets ESP32 (PlatformIO), reverse engineering (Ghidra/IDA), ASM ARM
+
+---
+
+### 🛠️ Stack technique
+
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
+<a href="https://www.cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="42" height="42"/></a>
+<a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="42" height="42"/></a>
+<a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="42" height="42"/></a>
+<a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/></a>
+<a href="https://www.blender.org" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42"/></a>
+<a href="https://www.espressif.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="esp32" width="42" height="42"/></a>
+<a href="https://getnobara.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
+</p>
+
+---
+
+### 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bigjojony&show_icons=true&theme=tokyonight&hide_border=true" alt="MOKAQ's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bigjojony&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigjojony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🐍 Activité (cadre dynamique)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bigjojony/Bigjojony/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</p>
+
+> Ce serpent s'anime automatiquement à partir de ton graphe de contributions — voir la note ci-dessous pour l'activer.
+
+---
+
+### 📫 Me contacter
+
+<p align="left">
+<a href="https://x.com/Trashu_ban" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=100&section=footer" alt="footer" width="100%"/>
+</p>
