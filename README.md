@@ -40,23 +40,8 @@
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bigjojony&show_icons=true&theme=tokyonight&hide_border=true" alt="MOKAQ's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bigjojony&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigjojony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-### 🐍 Activité (cadre dynamique)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bigjojony/Bigjojony/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</p>
-
-> Ce serpent s'anime automatiquement à partir de ton graphe de contributions — voir la note ci-dessous pour l'activer.
 
 ---
 
